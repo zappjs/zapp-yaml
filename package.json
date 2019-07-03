@@ -1,0 +1,16 @@
+{
+  "name": "@zappjs/yaml",
+  "version": "0.1.0",
+  "main": "dist/index.js",
+  "devDependencies": {
+    "@types/js-yaml": "^3.12.1",
+    "@zappjs/core": "^2.0.0-alpha.1",
+    "typescript": "^3.5.2"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "js-yaml": "^3.13.1"
+  }
+}
